@@ -9,6 +9,10 @@ You could also use OTUs table from txt/csv and provide your own sample_data and 
 
 An example data set that cames straightforwar from the pipeline [**BacSixTnS**](https://github.com/AgustinPardo/BacSixTnS) is used. This data set is an OTU and taxa table from a 16S sequencing samples of diferents areas and seassons of a farming area.
 
+
+### Data input examples source
+https://drive.google.com/drive/folders/1Zd_ErYQro95F-oArd_CoXHLOP9eQTZiG?usp=sharing
+
 ### Things that you could do
 * Creation phyloseq object from OTUs, taxa table in a RDS and csv format.
 * Add to phyloseq object metadata from the samples to filter and play with it
@@ -29,6 +33,3 @@ An example data set that cames straightforwar from the pipeline [**BacSixTnS**](
 ### Ordination plots
 * Coming soon...
 ![OP_all](https://github.com/AgustinPardo/phyloseq-OTUs-app/blob/master/ordination_plot_all.png)
-
-### Data input examples
-https://drive.google.com/drive/folders/1Zd_ErYQro95F-oArd_CoXHLOP9eQTZiG?usp=sharing
