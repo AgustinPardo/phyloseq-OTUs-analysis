@@ -1,4 +1,4 @@
-# phyloseq-OTUs-app
+# phyloseq-OTUs-analysis
 
 ### Data requirements
 
