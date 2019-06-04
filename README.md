@@ -3,7 +3,7 @@
 ### Data requirements
 
 This workflow is develop to use OTUs and taxa tables in RDS format. 
-You could also use OTUs table from txt/csv and provide your own sample_data and tax_table.
+You could also use OTUs table from txt/csv and provide your own sample_data and tax_table, but you should fits a tittle the first steps of the pipeline.
 
 ### Starting point
 
