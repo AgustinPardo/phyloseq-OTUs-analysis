@@ -18,9 +18,7 @@ An example data set that cames straightforwar from the pipeline [**BacSixTnS**](
 * OTUs singletons removing
 * Export new parsed OTUs and taxa table
 * Plot rarefaction curves
-
-
-
+![rare](https://github.com/AgustinPardo/phyloseq-OTUs-app/blob/master/rarefaction_curve.png)
 * Subset selecion by the metada (e.g: Location, Season)
 
 ### Bar plots
@@ -29,6 +27,7 @@ An example data set that cames straightforwar from the pipeline [**BacSixTnS**](
 
 ### Ordination plots
 * Coming soon...
+![OP_all](https://github.com/AgustinPardo/phyloseq-OTUs-app/blob/master/ordination_plot_all.png)
 
 ### Data input examples
 https://drive.google.com/drive/folders/1Zd_ErYQro95F-oArd_CoXHLOP9eQTZiG?usp=sharing
