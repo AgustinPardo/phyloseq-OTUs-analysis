@@ -10,7 +10,7 @@ You could also use OTUs table from txt/csv and provide your own sample_data and 
 An example data set that cames straightforwar from the pipeline [**BacSixTnS**](https://github.com/AgustinPardo/BacSixTnS) is used. This data set is an OTU and taxa table from a 16S sequencing samples of diferents areas and seassons of a farming area.
 
 
-### Data input examples source
+### Data input example source
 https://drive.google.com/drive/folders/1Zd_ErYQro95F-oArd_CoXHLOP9eQTZiG?usp=sharing
 
 ### Things that you could do
