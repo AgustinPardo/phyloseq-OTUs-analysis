@@ -7,7 +7,7 @@ You could also use OTUs table from txt/csv and provide your own sample_data and 
 
 ### Starting point
 
-An example data set that cames straightforwar from the pipeline [**BacSixTnS**](https://github.com/AgustinPardo/BacSixTnS) is used. This data set is an OTU and taxa table from a 16S sequencing samples of diferents areas and seassons of a farming place.
+An example data set that cames straightforwar from the pipeline [**BacSixTnS**](https://github.com/AgustinPardo/BacSixTnS) is used. This data set is an OTU and taxa table from a 16S sequencing samples of diferents areas and seassons of a farming area.
 
 ### Things that you could do
 * Creation phyloseq object from OTUs, taxa table in a RDS and csv format.
