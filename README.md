@@ -23,8 +23,9 @@ An example data set that cames straightforwar from the pipeline [**BacSixTnS**](
 
 ### Bar plots
 * Create Bar plots of the diferetns taxonomic ranks, "Kingdom","Phylum","Class","Order","Family","Genus","Species".
+![BP_all](https://github.com/AgustinPardo/phyloseq-OTUs-app/blob/master/barplot_phylum_all.png)
 * Select especific taxa of a rank. For example: in the case of Phylum, you could select "Acidobacteria","Proteobacteria","Bacteroidetes","Chloroflexi", "Cyanobacteria","Firmicutes","Nitrospirae".
-
+![BP_selected](https://github.com/AgustinPardo/phyloseq-OTUs-app/blob/master/barplot_phylum_selected.png)
 ### Ordination plots
 * Coming soon...
 ![OP_all](https://github.com/AgustinPardo/phyloseq-OTUs-app/blob/master/ordination_plot_all.png)
